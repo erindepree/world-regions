@@ -33,7 +33,7 @@ where the final value is averaged over the last twenty years of data and the ini
 
 <img src='images/norm_le_gni_world.png'>
 
-Looking at the top and bottom 1/8 of both normalized life expectancy and normalized GNI per capita, there are some interesting results.  
+Looking at the top and bottom octile (1/8) of both normalized life expectancy and normalized GNI per capita, there are some interesting combinations.  
 
 | | Large GNI per capita gain (in top 12.5%) | Small GNI per capita gain (in bottom 12.5%) |
 | ---| --- | --- |
