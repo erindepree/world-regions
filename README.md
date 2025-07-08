@@ -33,10 +33,10 @@ where the final value is averaged over the last twenty years of data and the ini
 
 <img src='images/norm_le_gni_world.png'>
 
-| | Large GNI per capita gain | Small GNI per capita gain |
+| | Large GNI per capita gain (top octile) | Small GNI per capita gain (bottom octile) |
 | ---| --- | --- |
-| **Large life expectancy gain** | *Overperformers:* Singapore, Malta, Kuwait, South Korea | Uganda, Sierra Leone | 
-| **Small life expectancy gain** | Norway, Cyprus | *Underperformers:* Central African Republic, Zimbabwe, Lesotho |
+| **Large life expectancy gain** (top octile) | *Overperformers:* Singapore, Malta, Kuwait, South Korea | Uganda, Sierra Leone | 
+| **Small life expectancy gain** (bottom octile) | Norway | *Underperformers:* Central African Republic, Zimbabwe, Lesotho |
 
 ### Determining Regional Affiliation
 
